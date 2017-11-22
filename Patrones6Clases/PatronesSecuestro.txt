@@ -1,1 +1,13 @@
-DT secuestro (PREP)?(ser | estar)? secuestrar  (PREP)?(caer |atrapar|capturar)? Secuestrador (exprés | integrado)?(ser | estar)? privar PREP (PPO|DT) libertadhaber (ser|estar)? secuestrar (PREP)?privación (ilegal)? PREP (PPO|DT) libertad(ser|estar)? levantar secuestrar(intentar|mantener|tener|traer) secuestrar (PREP)?(condenar | consignar ) PREP secuestro(condenar | consignar ) PREP secuestrador(perpetrar|reportar) DT secuestroacusar PREP secuestrodedicar PREP DT secuestro
+DT secuestro (PREP)?
+(ser | estar)? secuestrar  (PREP)?
+(caer |atrapar|capturar)? secuestrador (exprés | integrado)?
+(ser | estar)? privar PREP (PPO|DT) libertad
+haber (ser|estar)? secuestrar (PREP)?
+privación (ilegal)? PREP (PPO|DT) libertad
+(ser|estar)? levantar secuestrar
+(intentar|mantener|tener|traer) secuestrar (PREP)?
+(condenar | consignar ) PREP secuestro
+(condenar | consignar ) PREP secuestrador
+(perpetrar|reportar) DT secuestro
+acusar PREP secuestro
+dedicar PREP DT secuestro
